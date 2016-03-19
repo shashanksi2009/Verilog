@@ -1,2 +1,2 @@
 # Verilog
-This repo contains self written verilog codes .
+This repo contains my verilog codes .
