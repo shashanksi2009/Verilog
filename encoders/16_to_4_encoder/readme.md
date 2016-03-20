@@ -1,4 +1,4 @@
-#Verilog program for 16 line to 4 line encoder
+#Verilog program for 16 line to 4 line encoder using if - else
 
 This folder contains :-
 
