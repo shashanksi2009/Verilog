@@ -1,4 +1,4 @@
-module decoder_16_4(
+module decoder(
   output [15:0] out,
   input [3:0] in ,
   input enable );
