@@ -6,7 +6,7 @@ This folder contains :-
   
   2) testbench.sv
   
-You may run these code on http://www.edaplayground.com .
+You may run these codes on http://www.edaplayground.com .
 
 
 ### How to run :
