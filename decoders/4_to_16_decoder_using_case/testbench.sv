@@ -1,8 +1,8 @@
 module tb();
-    reg [15:0] i;
+    reg [3:0] i;
     reg enable;
     wire o;
-    encoder_16_4 dev(o , i , enable);
+    decoder dev(o , i , enable);
   assign enable = 1;
     initial
       begin
