@@ -1,4 +1,4 @@
-#Verilog program for 4:1 mux using if - else ladder
+#Verilog program for 4:1 MUX using if - else ladder .
 
 This folder contains :-
 
